@@ -15,6 +15,7 @@ This is a simple and interactive **Todo List app** built with React. It allows u
 - CSS for basic styling
 - Functional Components
 - JavaScript ES6+
+- HTML for root rendering
 
 
 
